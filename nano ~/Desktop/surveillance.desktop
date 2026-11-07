@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Камера наблюдения PS2
+Comment=Видеонаблюдение с камеры PS2
+Exec=/home/testerovhik/start_surveillance.sh
+Icon=camera-video
+Terminal=false
